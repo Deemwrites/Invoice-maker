@@ -1,0 +1,5 @@
+{
+  "name": "Instant Invoice Generator",
+  "description": "A frontend-only web app that enables small business owners to instantly create, customize, and download professional invoices and receipts directly in their browser without needing a backend.",
+  "requestFramePermissions": []
+}
